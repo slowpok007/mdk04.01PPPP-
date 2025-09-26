@@ -1,0 +1,178 @@
+﻿<Page x:Class="PPPP.Pages.Filtr"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PPPP.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Фильтрация">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnBack" 
+                Content="Назад" 
+                Width="100" 
+                Height="30" 
+                Margin="10"
+                HorizontalAlignment="Left"
+                Click="btnBack_Click"/>
+
+        <TabControl Grid.Row="1" Margin="10">
+          
+
+            <!-- Вкладка Оборудование -->
+            <TabItem Header="Оборудование">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="Фильтр по описанию:" 
+                                 VerticalAlignment="Center" 
+                                 Margin="0,0,10,0"/>
+                        <TextBox x:Name="txtEquipmentFilter" 
+                                Width="200" 
+                                TextChanged="txtEquipmentFilter_TextChanged"/>
+                    </StackPanel>
+
+                    <DataGrid x:Name="dgEquipment" 
+                              Grid.Row="1"
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True"
+                              Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID_Equipment}" Width="50"/>
+                            <DataGridTextColumn Header="Название" Binding="{Binding EquipmentName}" Width="*"/>
+                            <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="*"/>
+                            <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" Width="100"/>
+                            <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="100"/>
+                           
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- Вкладка Заказы -->
+            <TabItem Header="Заказы">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="Фильтр по статусу:" 
+                                 VerticalAlignment="Center" 
+                                 Margin="0,0,10,0"/>
+                        <ComboBox x:Name="cmbOrderStatus" 
+                                 Width="200"
+                                 SelectionChanged="cmbOrderStatus_SelectionChanged">
+                            <ComboBoxItem Content="Все"/>
+                            <ComboBoxItem Content="Выполнен"/>
+                            <ComboBoxItem Content="В работе"/>
+                            <ComboBoxItem Content="Отменен"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <DataGrid x:Name="dgOrders" 
+                              Grid.Row="1"
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True"
+                              Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID_Order}" Width="50"/>
+                            <DataGridTextColumn Header="ID Клиента" Binding="{Binding ID_Client}" Width="100"/>
+                            <DataGridTextColumn Header="Дата заказа" Binding="{Binding OrderDate}" Width="*"/>
+                            <DataGridTextColumn Header="Срок" Binding="{Binding Deadline}" Width="*"/>
+                            <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="*"/>
+                           
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- Вкладка Заявки на обслуживание -->
+            <TabItem Header="Заявки на обслуживание">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="Фильтр по типу услуги:" 
+                                 VerticalAlignment="Center" 
+                                 Margin="0,0,10,0"/>
+                        <ComboBox x:Name="cmbServiceType" 
+                                 Width="200"
+                                 SelectionChanged="cmbServiceType_SelectionChanged">
+                            <ComboBoxItem Content="Все"/>
+                            <ComboBoxItem Content="Ремонт"/>
+                            <ComboBoxItem Content="Обслуживание"/>
+                            <ComboBoxItem Content="Диагностика"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <DataGrid x:Name="dgServiceRequests" 
+                              Grid.Row="1"
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True"
+                              Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID_ServiceRequest}" Width="50"/>
+                            <DataGridTextColumn Header="ID Оборудования" Binding="{Binding ID_Equipment}" Width="100"/>
+                            <DataGridTextColumn Header="Тип услуги" Binding="{Binding ServiceType}" Width="*"/>
+                            <DataGridTextColumn Header="Дата вызова" Binding="{Binding CallDate}" Width="*"/>
+                            <DataGridTextColumn Header="Исполнитель" Binding="{Binding Executor}" Width="*"/>
+                            
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- Вкладка Жалобы -->
+            <TabItem Header="Жалобы" Height="20" VerticalAlignment="Top">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="Фильтр по статусу:" 
+                                 VerticalAlignment="Center" 
+                                 Margin="0,0,10,0"/>
+                        <ComboBox x:Name="cmbComplaintStatus" 
+                                 Width="200"
+                                 SelectionChanged="cmbComplaintStatus_SelectionChanged">
+                            <ComboBoxItem Content="Все"/>
+                            <ComboBoxItem Content="Рассмотрено"/>
+                            <ComboBoxItem Content="В работе"/>
+                            <ComboBoxItem Content="Отклонена"/>
+                        </ComboBox>
+                    </StackPanel>
+
+                    <DataGrid x:Name="dgComplaints" 
+                              Grid.Row="1"
+                              AutoGenerateColumns="False" 
+                              IsReadOnly="True"
+                              Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding ID_Complaint}" Width="50"/>
+                            <DataGridTextColumn Header="ID Заказа" Binding="{Binding ID_Order}" Width="100"/>
+                            <DataGridTextColumn Header="Описание проблемы" Binding="{Binding IssueDescription}" Width="*"/>
+                            <DataGridTextColumn Header="Дата регистрации" Binding="{Binding RegistrationDate}" Width="*"/>
+                            <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl> 
+    </Grid>
+</Page>

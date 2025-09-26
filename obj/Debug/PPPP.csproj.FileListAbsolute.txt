@@ -1,0 +1,114 @@
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\Database1.mdf
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\Database1_log.ldf
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\PPPP.exe.config
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\PPPP.exe
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\PPPP.pdb
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\EntityFramework.dll
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\EntityFramework.xml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.csproj.AssemblyReference.cache
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.csproj.ResolveComReference.cache
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\MainWindow.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddClient.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddComplaint.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddEquipment.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddOrder.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddServiceRequest.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditClient.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditComplaint.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditEquipment.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditOrder.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditServiceRequest.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\ExcelOtch.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\Filtr.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\IzmUsers.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\M.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\sprav.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\UsersPage.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\App.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP_Content.g.cs
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP_MarkupCompile.cache
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP_MarkupCompile.lref
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\MainWindow.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddClient.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddComplaint.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddEquipment.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddOrder.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\AddServiceRequest.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditClient.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditComplaint.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditEquipment.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditOrder.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\EditServiceRequest.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\ExcelOtch.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\Filtr.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\IzmUsers.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\M.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\sprav.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\Pages\UsersPage.baml
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.g.resources
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.Properties.Resources.resources
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.csproj.GenerateResource.cache
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.csproj.CoreCompileInputs.cache
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.csproj.Up2Date
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.exe
+C:\Users\chrvj\Desktop\3.2ИСиП-1 Черенев Евгений\ПП\проект\PPPP\PPPP\obj\Debug\PPPP.pdb
+F:\пп\PPPP\PPPP\bin\Debug\Database1.mdf
+F:\пп\PPPP\PPPP\bin\Debug\Database1_log.ldf
+F:\пп\PPPP\PPPP\bin\Debug\PPPP.exe.config
+F:\пп\PPPP\PPPP\bin\Debug\PPPP.exe
+F:\пп\PPPP\PPPP\bin\Debug\PPPP.pdb
+F:\пп\PPPP\PPPP\bin\Debug\EntityFramework.dll
+F:\пп\PPPP\PPPP\bin\Debug\EntityFramework.SqlServer.dll
+F:\пп\PPPP\PPPP\bin\Debug\EntityFramework.xml
+F:\пп\PPPP\PPPP\bin\Debug\EntityFramework.SqlServer.xml
+F:\пп\PPPP\PPPP\bin\Debug\ru\EntityFramework.resources.dll
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.csproj.AssemblyReference.cache
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.csproj.ResolveComReference.cache
+F:\пп\PPPP\PPPP\obj\Debug\MainWindow.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddClient.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddComplaint.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddEquipment.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddOrder.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddServiceRequest.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditClient.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditComplaint.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditEquipment.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditOrder.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditServiceRequest.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\ExcelOtch.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\Filtr.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\IzmUsers.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\M.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\sprav.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\Pages\UsersPage.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\App.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\PPPP_Content.g.cs
+F:\пп\PPPP\PPPP\obj\Debug\PPPP_MarkupCompile.cache
+F:\пп\PPPP\PPPP\obj\Debug\PPPP_MarkupCompile.lref
+F:\пп\PPPP\PPPP\obj\Debug\MainWindow.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddClient.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddComplaint.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddEquipment.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddOrder.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\AddServiceRequest.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditClient.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditComplaint.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditEquipment.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditOrder.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\EditServiceRequest.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\ExcelOtch.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\Filtr.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\IzmUsers.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\M.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\sprav.baml
+F:\пп\PPPP\PPPP\obj\Debug\Pages\UsersPage.baml
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.g.resources
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.Properties.Resources.resources
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.csproj.GenerateResource.cache
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.csproj.CoreCompileInputs.cache
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.csproj.Up2Date
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.exe
+F:\пп\PPPP\PPPP\obj\Debug\PPPP.pdb

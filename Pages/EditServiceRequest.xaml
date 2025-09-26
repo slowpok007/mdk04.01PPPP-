@@ -1,0 +1,82 @@
+<Page x:Class="PPPP.Pages.EditServiceRequest"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PPPP.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Редактирование заявки на обслуживание">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back Button -->
+        <Button x:Name="btnBack" 
+                Content="Назад" 
+                Width="100" 
+                Height="30" 
+                Margin="10" 
+                HorizontalAlignment="Left"
+                Click="btnBack_Click"/>
+
+        <StackPanel Grid.Row="1" 
+                    Width="400" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center">
+
+            <TextBlock Text="Редактирование данных заявки на обслуживание" 
+                       FontSize="20" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,20"/>
+
+            <!-- Equipment (ComboBox) -->
+            <TextBlock Text="Оборудование" Margin="5"/>
+            <ComboBox x:Name="cmbEquipment" 
+                      DisplayMemberPath="EquipmentName"
+                      Margin="5"/>
+
+            <!-- Service Type (ComboBox) -->
+            <TextBlock Text="Тип услуги" Margin="5"/>
+            <ComboBox x:Name="cmbServiceType" 
+                      Margin="5">
+                <ComboBoxItem Content="Ремонт"/>
+                <ComboBoxItem Content="Обслуживание"/>
+                <ComboBoxItem Content="Консультация"/>
+                <ComboBoxItem Content="Монтаж"/>
+            </ComboBox>
+
+            <!-- Call Date (DatePicker) -->
+            <TextBlock Text="Дата вызова" Margin="5"/>
+            <DatePicker x:Name="dpCallDate" 
+                       Margin="5"/>
+
+            <!-- Executor (TextBox) -->
+            <TextBlock Text="Исполнитель" Margin="5"/>
+            <TextBox x:Name="txtExecutor" 
+                     Margin="5"/>
+
+            <!-- Save and Cancel Buttons -->
+            <StackPanel Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        Margin="0,20,0,0">
+                <Button x:Name="btnSave" 
+                        Content="Сохранить" 
+                        Width="150" 
+                        Height="30" 
+                        Margin="5"
+                        Click="btnSave_Click"/>
+
+                <Button x:Name="btnCancel" 
+                        Content="Отмена" 
+                        Width="150" 
+                        Height="30" 
+                        Margin="5"
+                        Click="btnCancel_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page> 
